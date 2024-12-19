@@ -6,7 +6,7 @@ Spider silk is composed of several proteins, each contributing to different prop
 1. **Spidroin 1 (Sp1)** – 81 kDa  
    Spidroin 1 is found in dragline silk, which is the strong and durable silk used by spiders for creating webs or as lifelines.
 
-2. **Spidroin 2 (Sp2)** – 25-50 kDa  
+2. **Spidroin 2 (Sp2)** – 65 kDa  
    Spidroin 2 is also present in dragline silk and is similar to Sp1, contributing to the mechanical properties of the silk.
 
 3. **Major Ampullate Spidroin (MaSp1)** – 200 to 300 kDa  
